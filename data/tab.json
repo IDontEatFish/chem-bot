@@ -1,0 +1,32 @@
+{
+    "short_tab": {
+    "appearance": "Appearance",
+    "atomic_mass": "Atomic mass",
+    "boil_rate": "Boil (measured in Kelvins)",
+    "categories": "Category",
+    "density": "Density (g/cm3)",
+    "discoverd_by": "Discovered by",
+    "melt": "Melt (measured in Kelvins)",
+    "molar_heat": "Molar heat",
+    "named_by": "Named by",
+    "number": "Number",
+    "period": "Period",
+    "state": "State",
+    "symbol": "Symbol",
+    "source": "Source"
+    },
+
+
+    "long_tab": { 
+    "spectral_image": "Spectral image",
+    "xpos": "XPos",
+    "ypos": "YPos",
+    "shells": "Shells",
+    "electron_configuartion": "Electron configuartion",
+    "electron_configuartion_semantic": "Electron configuartion semantic",
+    "electron_affinity": "Electron affinity",
+    "electronegativity_paulsing": "Electronegativity pauling",
+    "ionization_energies": "Ionization energies"
+
+    }
+}
